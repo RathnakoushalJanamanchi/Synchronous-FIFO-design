@@ -1,4 +1,4 @@
-# Synchronous FIFO — SystemVerilog Design & Verification
+# Synchronous FIFO — Verilog Design & Verification
 
 A parameterized synchronous First-In First-Out (FIFO) buffer implemented in SystemVerilog, complete with a self-checking testbench and simulation artifacts from Synopsys VCS.
 
@@ -140,7 +140,7 @@ Signals available in the waveform:
 
 To change the FIFO depth or data width, override the parameters at instantiation:
 
-```systemverilog
+```verilog
 synchronous_fifo #(
     .DEPTH(16),
     .DATA_WIDTH(32)
