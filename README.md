@@ -1,6 +1,6 @@
 # Synchronous FIFO — Verilog Design & Verification
 
-A parameterized synchronous First-In First-Out (FIFO) buffer implemented in SystemVerilog, complete with a self-checking testbench and simulation artifacts from Synopsys VCS.
+A parameterized synchronous First-In First-Out (FIFO) buffer implemented in SystemVerilog, complete with a self-checking testbench and simulation artifacts from Synopsys VCS in EDA Playground.
 
 ---
 
